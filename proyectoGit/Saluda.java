@@ -12,6 +12,6 @@ public class Saluda{
 		System.out.println("Hola, ¿que tal?. Jesus Ramirez Richarte");
 		System.out.println("Hola, estoy muy bien. Soy Ariana Martín Martínez");
 		System.out.println("Aquí Raúl Aguilar García, necesito unas vacaciones :D");
-
+                System.out.println("Holita, Juan. Soy Tania Rodriguez. Taky para los amigos ;)")
 	}
 }
