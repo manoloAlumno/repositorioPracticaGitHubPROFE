@@ -17,7 +17,7 @@ public class Saluda{
     		System.out.println("Holita, Juan. Soy Tania Rodriguez. Taky para los amigos ;)");
     		System.out.println("Con ganas de vacaciones ya!!.Soy Lorena González.");
     		System.out.println("No sé que hago aqui, espero que esté bien. Lorena Jiménez/loresodio <]:{v");
-
+		System.out.println("Por aquí Karina AKA Elli. Por fin llega verano :)");
 
 	}
 }
