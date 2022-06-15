@@ -23,6 +23,7 @@ public class Saluda{
     		System.out.println("No sé que hago aqui, espero que esté bien. Lorena Jiménez/loresodio <]:{v");
 		System.out.println("Por aquí Karina AKA Elli. Por fin llega verano :)");
         
-    System.out.println("Hola, soy Nuria Sánchez Manzanares");
+   		System.out.println("Hola, soy Nuria Sánchez Manzanares");
+   		System.out.println("Hola, soy Claudia Berrocal, Felices fiestas!");
 	}
 }
