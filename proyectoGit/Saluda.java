@@ -25,5 +25,6 @@ public class Saluda{
         
    		System.out.println("Hola, soy Nuria Sánchez Manzanares");
    		System.out.println("Hola, soy Claudia Berrocal, Felices fiestas!");
+		System.out.println("Hola, soy Manuel Palomo Pró. ¡Buen verano!");
 	}
 }
